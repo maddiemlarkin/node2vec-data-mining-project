@@ -1,0 +1,6 @@
+networkx
+gensim
+scikit-learn
+numpy
+scipy
+matplotlib
